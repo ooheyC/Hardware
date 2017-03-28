@@ -1,0 +1,2 @@
+# Hardware
+Get Device Information
